@@ -14,7 +14,3 @@ If Google Play is available on your device, install from there — it auto-updat
 3. Side-load the APK on your TV (via a file manager, `adb install`, or a side-load app).
 
 If unsure which one to pick, try `arm64-v8a` first.
-
-## Source code
-
-Source is in a separate repository.
