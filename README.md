@@ -2,7 +2,10 @@
 
 APK builds of [wako](https://wako.app) for Android TV (Fire TV, Nvidia Shield, Google TV, generic Android TV boxes).
 
-If Google Play is available on your device, install from there — it auto-updates. This repo exists for devices where Google Play is out of reach.
+If Google Play is available on your device, install from there — it auto-updates:
+https://play.google.com/store/apps/details?id=app.wako
+
+This repo exists for devices where Google Play is out of reach.
 
 ## Install
 
